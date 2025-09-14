@@ -2,8 +2,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/hololotl/random.git
-   cd random/cmd
+   git clone https://github.com/hololotl/customappTest.git
+   cd customappTest/cmd
    go run . -rtp=0.6
 
 # Репорт по тестовому заданию
